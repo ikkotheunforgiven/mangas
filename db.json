@@ -1,64 +1,58 @@
-[{
-    "Imagen" : "../img/manga/komisanmanga.jpg",
-    "Nombre" : "Komi Can't Communicate 01",
-    "Autor" : "Tomohito Oda",
-    "Genero" : "Comedia Romantica",
-    "Descripcion" : "Una  hermosa y popular estudiante  de preparatoria llamada Shouko Komi la cual tiene trastorno de la comunicación, lo que le ha ocasionado una serie de malentendidos a lo largo de su vida llegando al punto de no tener un solo amigo. Un día, por una serie de eventos, se ve relacionada con Hitohito Tadano, alguien con una excepcional capacidad de \"leer el ambiente\" que decide ayudarla a realizar su más grande deseo: tener 100 amigos.",
-    "Precio" : 7.60
-},
 {
-    "Imagen" : "../img/manga/jujutsumanga.jpg",
-    "Nombre" : "Jujutsu Kaisen 01",
-    "Autor" : "Gege Akutami",
-    "Genero" : "Fantasia Oscura",
-    "Descripcion" : "Yuuji Itadori es un estudiante de instituto con unas habilidades físicas excepcionales. Todos los días, como rutina, va al hospital a visitar a su abuelo enfermo y decide apuntarse al club de ocultismo del instituto para no dar un palo al agua… Sin embargo, un buen día el sello del talismán que se hallaba escondido en su instituto se rompe, y comienzan a aparecer unos monstruos. Ante este giro de los acontecimientos, Itadori decide adentrarse en el instituto para salvar a sus compañeros. ¿Qué le deparará el destino?",
-    "Precio" : 8.00
-},
-{
-    "Imagen" : "../img/manga/mierukomanga.jpg",
-    "Nombre" : "Mieruko-chan 02",
-    "Autor" : "Tomoki Izumi",
-    "Genero" : "Horror, Ecchi",
-    "Descripcion" : "Miko es una típica estudiante de preparatoria cuya vida da un vuelco cuando de repente comienza a ver monstruos espantosos y horribles. A pesar de estar completamente aterrorizada, Miko sigue con su vida diaria, fingiendo no darse cuenta de los horrores que la rodean. Debe soportar el miedo para mantenerse a ella y a su amiga Hana fuera de peligro, incluso si eso significa enfrentarse cara a cara con lo peor. Mezclando comedia y horror, Mieruko-chan cuenta la historia de una chica que trata de lidiar con lo paranormal actuando indiferente hacia él.",
-    "Precio" : 7.60
-},
-{
-    "Imagen" : "../img/manga/kemonojihenmanga.jpg",
-    "Nombre" : "Kemono Jihen 01",
-    "Autor" : "Sho Aimoto",
-    "Genero" : "Shounen",
-    "Descripcion" : "Cuando una serie de cuerpos de animales que se pudren en una sola noche comienza a aparecer en un remoto pueblo de una montaña, Inugami, un detective de Tokio que se especializa en el ocultismo, comienza su investigación. Mientras trabaja en el caso, se hace amigo de un chico que trabaja en el campo en vez de asistir a la escuela. Rechazado por sus compañeros y apodado “Dorotabo” por un yokai que vive en la tierra, ayuda a Inugami a resolver el misterio detrás de las muertes, pero las fuerzas sobrenaturales están presentes allí, y el apodo “Dorotabo” podría no ser tan equivocado.",
-    "Precio" : 7.80
-},
-{
-    "Imagen" : "../img/manga/fullmetalmanga.jpg",
-    "Nombre" : "Fullmetal Alchemist 01",
-    "Autor" : "Hiromu Arakawa",
-    "Genero" : "Shounen",
-    "Descripcion" : "La historia se centra en dos hermanos, Edward Elric y Alphonse Elric que rompieron el mayor tabú de la alquimia, la trasmutación humana al tratar de revivir a su fallecida madre; en consecuencia Edward pierde su pierna izquierda y Alphonse pierde todo su cuerpo, Edward para salvar a su hermano sella su alma en una gran armadura de hierro a cambio de su brazo derecho; ahora los dos con un nuevo objetivo buscan desesperadamente la piedra filosofal para poder regresar sus cuerpos a la normalidad.",
-    "Precio" : 8.61
-},
-{
-    "Imagen" : "../img/manga/parasytemanga.jpg",
-    "Nombre" : "Parasyte 01",
-    "Autor" : "Hitoshi Iwaraki",
-    "Genero" : "Seinen",
-    "Descripcion" : "Shinichi es un adolescente que vive con sus padres en Tokio. Una noche llegan a la Tierra unos gusanos del espacio cuyo plan es introducirse en los seres humanos para controlar su cerebro y dominar el mundo. Shinichi impide que esto pase cuando uno de los parásitos se introduce en su cuerpo y toma el control de su mano derecha. Entonces, el chico y el parásito entran en una relación en la que ambos conservan sus personalidades y luchan contra los otros parásitos que devoran a los humanos.",
-    "Precio" : 8.32
-},
-{
-    "Imagen" : "../img/manga/huntermanga.jpg",
-    "Nombre" : "Hunter x Hunter 01",
-    "Autor" : "Yoshihiro Togashi",
-    "Genero" : "Shounen",
-    "Descripcion" : "Gon Frecks, un niño de 12 años, vive con su tia Mito y su abuela en Isla Ballena, huérfano de madre y según su tía también de padre. Un día Gon es atacado por un oso del bosque, pero es salvado por un cazador quien le explica que está en busca de su maestro para así convertirse en un cazador, el es quien le dice que su padre Gin esta vivo. Enterado de esto Gon decide convertirse en cazador para poder encontrar a su padre.",
-    "Precio" : 7.63
-},
-{
-    "Imagen" : "../img/manga/kobayashimanga.jpg",
-    "Nombre" : "Miss Kobayashi's Dragonmaid 01",
-    "Autor" : "Coolkyousinnjya",
-    "Genero" : "Recuentos de la vida",
-    "Descripcion" : "La historia gira en torno a Kobayashi, una oficinista normal y corriente que lleva una vida aburrida y solitaria en su pequeño departamento, hasta que un día, le salva la vida a una dragona en peligro. La dragona, llamada Tohru, tiene la habilidad de transformarse mágicamente en una adorable chica humana (aunque con cuernos y una larga cola), que hará cualquier cosa para devolverle el favor a Kobayashi, incluso proclamarse a si misma como su sirvienta. Viviendo junto a una persistente pero amorosa dragona como compañera de piso, la vida normal de Kobayashi está a punto de irse al garete.",
-    "Precio" : 8.75
-}]
+    "mangas" : [{
+        "Imagen" : "../img/manga/komisanmanga.jpg",
+        "Nombre" : "Komi Can't Communicate 01",
+        "Autor" : "Tomohito Oda",
+        "Genero" : "Comedia Romantica",
+        "Descripcion" : "Una  hermosa y popular estudiante  de preparatoria llamada Shouko Komi la cual tiene trastorno de la comunicación, lo que le ha ocasionado una serie de malentendidos a lo largo de su vida llegando al punto de no tener un solo amigo. Un día, por una serie de eventos, se ve relacionada con Hitohito Tadano, alguien con una excepcional capacidad de \"leer el ambiente\" que decide ayudarla a realizar su más grande deseo: tener 100 amigos."
+    },
+    {
+        "Imagen" : "../img/manga/jujutsumanga.jpg",
+        "Nombre" : "Jujutsu Kaisen 01",
+        "Autor" : "Gege Akutami",
+        "Genero" : "Fantasia Oscura",
+        "Descripcion" : "Yuuji Itadori es un estudiante de instituto con unas habilidades físicas excepcionales. Todos los días, como rutina, va al hospital a visitar a su abuelo enfermo y decide apuntarse al club de ocultismo del instituto para no dar un palo al agua… Sin embargo, un buen día el sello del talismán que se hallaba escondido en su instituto se rompe, y comienzan a aparecer unos monstruos. Ante este giro de los acontecimientos, Itadori decide adentrarse en el instituto para salvar a sus compañeros. ¿Qué le deparará el destino?"
+    },
+    {
+        "Imagen" : "../img/manga/mierukomanga.jpg",
+        "Nombre" : "Mieruko-chan 02",
+        "Autor" : "Tomoki Izumi",
+        "Genero" : "Horror, Ecchi",
+        "Descripcion" : "Miko es una típica estudiante de preparatoria cuya vida da un vuelco cuando de repente comienza a ver monstruos espantosos y horribles. A pesar de estar completamente aterrorizada, Miko sigue con su vida diaria, fingiendo no darse cuenta de los horrores que la rodean. Debe soportar el miedo para mantenerse a ella y a su amiga Hana fuera de peligro, incluso si eso significa enfrentarse cara a cara con lo peor. Mezclando comedia y horror, Mieruko-chan cuenta la historia de una chica que trata de lidiar con lo paranormal actuando indiferente hacia él."
+    },
+    {
+        "Imagen" : "../img/manga/kemonojihenmanga.jpg",
+        "Nombre" : "Kemono Jihen 01",
+        "Autor" : "Sho Aimoto",
+        "Genero" : "Shounen",
+        "Descripcion" : "Cuando una serie de cuerpos de animales que se pudren en una sola noche comienza a aparecer en un remoto pueblo de una montaña, Inugami, un detective de Tokio que se especializa en el ocultismo, comienza su investigación. Mientras trabaja en el caso, se hace amigo de un chico que trabaja en el campo en vez de asistir a la escuela. Rechazado por sus compañeros y apodado “Dorotabo” por un yokai que vive en la tierra, ayuda a Inugami a resolver el misterio detrás de las muertes, pero las fuerzas sobrenaturales están presentes allí, y el apodo “Dorotabo” podría no ser tan equivocado."
+    },
+    {
+        "Imagen" : "../img/manga/fullmetalmanga.jpg",
+        "Nombre" : "Fullmetal Alchemist 01",
+        "Autor" : "Hiromu Arakawa",
+        "Genero" : "Shounen",
+        "Descripcion" : "La historia se centra en dos hermanos, Edward Elric y Alphonse Elric que rompieron el mayor tabú de la alquimia, la trasmutación humana al tratar de revivir a su fallecida madre; en consecuencia Edward pierde su pierna izquierda y Alphonse pierde todo su cuerpo, Edward para salvar a su hermano sella su alma en una gran armadura de hierro a cambio de su brazo derecho; ahora los dos con un nuevo objetivo buscan desesperadamente la piedra filosofal para poder regresar sus cuerpos a la normalidad."
+    },
+    {
+        "Imagen" : "../img/manga/parasytemanga.jpg",
+        "Nombre" : "Parasyte 01",
+        "Autor" : "Hitoshi Iwaraki",
+        "Genero" : "Seinen",
+        "Descripcion" : "Shinichi es un adolescente que vive con sus padres en Tokio. Una noche llegan a la Tierra unos gusanos del espacio cuyo plan es introducirse en los seres humanos para controlar su cerebro y dominar el mundo. Shinichi impide que esto pase cuando uno de los parásitos se introduce en su cuerpo y toma el control de su mano derecha. Entonces, el chico y el parásito entran en una relación en la que ambos conservan sus personalidades y luchan contra los otros parásitos que devoran a los humanos."
+    },
+    {
+        "Imagen" : "../img/manga/huntermanga.jpg",
+        "Nombre" : "Hunter x Hunter 01",
+        "Autor" : "Yoshihiro Togashi",
+        "Genero" : "Shounen",
+        "Descripcion" : "Gon Frecks, un niño de 12 años, vive con su tia Mito y su abuela en Isla Ballena, huérfano de madre y según su tía también de padre. Un día Gon es atacado por un oso del bosque, pero es salvado por un cazador quien le explica que está en busca de su maestro para así convertirse en un cazador, el es quien le dice que su padre Gin esta vivo. Enterado de esto Gon decide convertirse en cazador para poder encontrar a su padre."
+    },
+    {
+        "Imagen" : "../img/manga/kobayashimanga.jpg",
+        "Nombre" : "Miss Kobayashi's Dragonmaid 01",
+        "Autor" : "Coolkyousinnjya",
+        "Genero" : "Recuentos de la vida",
+        "Descripcion" : "La historia gira en torno a Kobayashi, una oficinista normal y corriente que lleva una vida aburrida y solitaria en su pequeño departamento, hasta que un día, le salva la vida a una dragona en peligro. La dragona, llamada Tohru, tiene la habilidad de transformarse mágicamente en una adorable chica humana (aunque con cuernos y una larga cola), que hará cualquier cosa para devolverle el favor a Kobayashi, incluso proclamarse a si misma como su sirvienta. Viviendo junto a una persistente pero amorosa dragona como compañera de piso, la vida normal de Kobayashi está a punto de irse al garete."
+    }]
+}
