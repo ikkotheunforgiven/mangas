@@ -1,5 +1,6 @@
 {
     "mangas" : [{
+        "id" : 1,
         "Imagen" : "../img/manga/komisanmanga.jpg",
         "Nombre" : "Komi Can't Communicate 01",
         "Autor" : "Tomohito Oda",
@@ -8,6 +9,7 @@
         "likes" : 0
     },
     {
+        "id" : 2,
         "Imagen" : "../img/manga/jujutsumanga.jpg",
         "Nombre" : "Jujutsu Kaisen 01",
         "Autor" : "Gege Akutami",
@@ -16,6 +18,7 @@
         "likes" : 0
     },
     {
+        "id" : 3,
         "Imagen" : "../img/manga/mierukomanga.jpg",
         "Nombre" : "Mieruko-chan 02",
         "Autor" : "Tomoki Izumi",
@@ -24,6 +27,7 @@
         "likes" : 0
     },
     {
+        "id" : 4,
         "Imagen" : "../img/manga/kemonojihenmanga.jpg",
         "Nombre" : "Kemono Jihen 01",
         "Autor" : "Sho Aimoto",
@@ -32,6 +36,7 @@
         "likes" : 0
     },
     {
+        "id" : 5,
         "Imagen" : "../img/manga/fullmetalmanga.jpg",
         "Nombre" : "Fullmetal Alchemist 01",
         "Autor" : "Hiromu Arakawa",
@@ -40,6 +45,7 @@
         "likes" : 0
     },
     {
+        "id" : 6,
         "Imagen" : "../img/manga/parasytemanga.jpg",
         "Nombre" : "Parasyte 01",
         "Autor" : "Hitoshi Iwaraki",
@@ -48,6 +54,7 @@
         "likes" : 0
     },
     {
+        "id" : 7,
         "Imagen" : "../img/manga/huntermanga.jpg",
         "Nombre" : "Hunter x Hunter 01",
         "Autor" : "Yoshihiro Togashi",
@@ -56,6 +63,7 @@
         "likes" : 0
     },
     {
+        "id" : 8,
         "Imagen" : "../img/manga/kobayashimanga.jpg",
         "Nombre" : "Miss Kobayashi's Dragonmaid 01",
         "Autor" : "Coolkyousinnjya",
